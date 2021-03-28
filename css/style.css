@@ -1,0 +1,18 @@
+body {
+  background-color: #edffec;
+  text-align: center;
+}
+
+h1 {
+  color: #e4bad4;
+  font-size: 40px;
+}
+
+p {
+  color: #e4bad4;
+  font-family: arial;
+}
+
+img {
+  border-radius: 50%;
+}
